@@ -63,7 +63,7 @@ df.isnull().sum()
 * Checks how many values are missing in each column.
 * Helps in deciding whether to clean or fill the missing data.
 
-🖼️ *[(images/null\_check.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/8.png)*
+🖼️ [(images/null\_check.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/8.png)
 
 ---
 
@@ -107,7 +107,7 @@ plt.show()
 * Sorts and selects top 5 countries with the highest confirmed case counts.
 * Plots the result as a bar chart.
 
-🖼️ *[(images/top10\_confirmed.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/10.png)*
+🖼️ [(images/top10\_confirmed.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/10.png)
 
 ---
 
@@ -143,7 +143,7 @@ plt.show()
 * Groups data by date and sums values for global trends.
 * Line plot shows how cases changed over time.
 
-🖼️ *[(images/global\_trend.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/output.png)*
+🖼️ [(images/global\_trend.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/output.png)
 
 ---
 
