@@ -50,7 +50,8 @@ df.head()
 * Loads the dataset into a DataFrame.
 * `df.head()` shows the first five rows to understand column names and sample data.
 
-🖼️ **Output Example:** Place a screenshot like `[images/data_head.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/1.png)`
+**Output Example:** 
+[img/data_head.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/1.png)
 
 ---
 
@@ -63,7 +64,7 @@ df.isnull().sum()
 * Checks how many values are missing in each column.
 * Helps in deciding whether to clean or fill the missing data.
 
-🖼️ [(images/null\_check.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/8.png)
+[images/null_check.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/8.png)
 
 ---
 
@@ -107,7 +108,7 @@ plt.show()
 * Sorts and selects top 5 countries with the highest confirmed case counts.
 * Plots the result as a bar chart.
 
-🖼️ [(images/top10\_confirmed.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/10.png)
+[images/top10\_confirmed.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/10.png)
 
 ---
 
@@ -123,7 +124,7 @@ plt.show()
 * A scatter plot showing how deaths and recoveries are related.
 * Different colors represent different countries.
 
-🖼️ *[(images/deaths\_vs\_recovered.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/11.png)*
+[images/deaths\_vs\_recovered.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/11.png)
 
 ---
 
@@ -143,7 +144,7 @@ plt.show()
 * Groups data by date and sums values for global trends.
 * Line plot shows how cases changed over time.
 
-🖼️ [(images/global\_trend.png)](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/output.png)
+[images/global\_trend.png](https://github.com/Aman73800/CovidAnalysis/blob/main/Covid/img/output.png)
 
 ---
 
